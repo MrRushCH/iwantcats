@@ -1,0 +1,19 @@
+{
+  "name": "iwantcats",
+  "version": "1.0.0",
+  "description": "Replaces all of the images on your website with pictures of cats.",
+  "main": "cats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cats",
+    "images",
+    "replace"
+  ],
+  "author": "Marc Rusch",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}

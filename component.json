@@ -1,0 +1,17 @@
+{
+	"name": "iwantcats",
+	"version": "1.0",
+	"description": "Replaces all of the images on your website with pictures of cats.",
+	"keywords": [
+		"cats",
+		"images",
+		"replace"
+	],
+	"dependencies": {
+		"component/jquery": "*"
+	},
+	"development": {},
+	"assets": {
+		"assets/*": "*"
+	}
+}
