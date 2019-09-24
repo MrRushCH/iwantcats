@@ -5,6 +5,7 @@ $(window).on("load", function () {
 
 function replaceImages() {
 	var images = document.querySelectorAll("img");
+	console.log(images);
 	var allElements = document.querySelectorAll("*");
 	for (var i = 0; i < images.length; i++) {
 		images[i].src = getRandomCat();
