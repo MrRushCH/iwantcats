@@ -1,5 +1,7 @@
-#iwantcats
-Iwantcats is a package which replaces all the images on your websites with images of cats.
+# giveMeImages
 
-##Requirements
-For iwantcats to work, all the assets inside of the /iwantcats/assets/ folder must be bundled into the /assets/img/ folder.
+GiveMeImages is a package which replaces all of the images on your website with random pictures.
+
+## Using the package
+
+To use the package, simply import the giveMeImages package. Use the function replaceImages() to replace all the images on your website.
